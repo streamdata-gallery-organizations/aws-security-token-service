@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=AssumeRoleWithSAML&k=1:
+  /?Action=AssumeRoleWithSAML:
     get:
       summary: ' Assume Role With S A M L '
       description: |-
