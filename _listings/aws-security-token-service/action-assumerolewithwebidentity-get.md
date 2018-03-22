@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=AssumeRoleWithWebIdentity&k=1:
+  /?Action=AssumeRoleWithWebIdentity:
     get:
       summary: ' Assume Role With Web Identity '
       description: |-
