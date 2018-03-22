@@ -11,8 +11,8 @@ tags:
 - Security
 - Authentication
 - Amazon Web Services
-created: "2018-03-10"
-modified: "2018-03-10"
+created: "2018-03-21"
+modified: "2018-03-21"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-security-token-service/master/_listings/aws-security-token-service/apis.yaml
 specificationVersion: "0.14"
 apis:
