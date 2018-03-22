@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetFederationToken&k=1:
+  /?Action=GetFederationToken:
     get:
       summary: ' Get Federation Token '
       description: |-
