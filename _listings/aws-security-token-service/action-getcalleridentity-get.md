@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetCallerIdentity&k=1:
+  /?Action=GetCallerIdentity:
     get:
       summary: ' Get Caller Identity '
       description: |-
