@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetSessionToken&k=1:
+  /?Action=GetSessionToken:
     get:
       summary: ' Get Session Token '
       description: Returns a set of temporary credentials for an AWS account or IAM
