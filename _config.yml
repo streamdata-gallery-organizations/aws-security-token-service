@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: aws-security-token-service.api.streamdata.gallery
+title: Streamdata Gallery AWS Security Token Service
+url: aws-security-token-service.streamdata.gallery
 tag: AWS Security Token Service
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: aws-security-token-service
 github_branch: master
 collections:
