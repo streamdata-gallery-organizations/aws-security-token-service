@@ -6,10 +6,10 @@ description: The AWS Security Token Service (STS) is a web service that enables 
   Management (IAM) users or for users that you authenticate (federated users).
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSIAM_AWSSTS.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: AWS Security Token Service
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-security-token-service/master/_listings/aws-security-token-service/apis.md
 specificationVersion: "0.14"
 apis:
