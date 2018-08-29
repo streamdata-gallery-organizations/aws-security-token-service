@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - AWS Security Token Service",
+	"description": "This is a repository of aws security token service APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/aws-security-token-service.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://aws-security-token-service.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "AWS Security Token Service",
+			"x-api-slug": "aws-security-token-service",
+			"description": "The AWS Security Token Service (STS) is a web service that enables you to request temporary, limited-privilege credentials for AWS Identity and Access Management (IAM) users or for users that you authenticate (federated users).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSIAM_AWSSTS.png",
+			"humanURL": "http://docs.aws.amazon.com/STS/latest/APIReference/Welcome.html",
+			"baseURL": ":///",
+			"tags": "AWS Security Token Service",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-security-token-service/master/_listings/aws-security-token-service/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "AWS Security Token Service",
+	"include": [
+		{
+			"name": "AWS Security Token Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-security-token-service/master/_listings/aws-security-token-service/apis.yaml"
+		}
+	]
+}
